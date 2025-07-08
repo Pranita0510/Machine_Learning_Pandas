@@ -1,4 +1,4 @@
-🐼 Pandas:
+**🐼 Pandas:**
 
 This Jupyter Notebook provides a hands-on introduction to Pandas, one of the most powerful and widely used data analysis libraries in Python.
 
